@@ -10,3 +10,5 @@ Clona el [proyecto](https://github.com/agustinsanchez02/DAW-UAI) desde Git
 Git clone https://github.com/agustinsanchez02/DAW-UAI
 ```
 
+## ESTE PROYECTO SIGUE EN CONSTRUCCION
+-----------------------------------------------------------------------------------------------------
